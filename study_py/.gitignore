@@ -1,0 +1,6 @@
+# Ignore unecessary files
+
+node_modules
+.env
+.idea
+.vscode
